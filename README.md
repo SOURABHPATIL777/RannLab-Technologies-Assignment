@@ -1,3 +1,14 @@
+
+1. First download the file 
+2. run "npm init"
+3. run "npm start"
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
